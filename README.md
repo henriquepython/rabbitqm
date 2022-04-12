@@ -1,6 +1,6 @@
 # Sobre
 
-É uma api para treino de conceitos de mensageria utilizando rabbitMQ
+É uma api para treino de conceitos de mensageria utilizando rabbitMQ e C#
 
 
 
