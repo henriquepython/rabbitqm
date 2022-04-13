@@ -35,4 +35,4 @@
 git clone https://github.com/henriquepython/rabbitqm.git
 
 # entrar na pasta do projeto
-cd ApiTraineUser
+cd rabbitqm
